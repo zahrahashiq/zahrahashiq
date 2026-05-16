@@ -1,10 +1,18 @@
 # 👋 Hi, I’m Zahrah
 
-I’m a BSc (Hons) Computer Science with Cybersecurity student, currently building my skills through small projects and hands-on learning.
+I’m a BSc (Hons) Computer Science with Cybersecurity student, currently building security-focused software projects in Python, Flask and web security.
 
 ### 🔧 What I’m working on:
-- Strengthening my Python and Java fundamentals
-- Exploring front-end development with HTML, CSS, and basic JavaScript
-- Learning how real-world systems are built and secured
+- Cipher Vault: a local password vault
+- Next project: Flask security lab/vulnerability scanner
+- Learning: networking, Burp suite, TryHackMe
 
-## 🌱 This GitHub is a work in progress. I'm going to add more to this soon as of December 2025
+##**Skills**
+- Python
+- Flask
+- Java
+- HTML/CSS/JavaScript
+- Git/GitHub
+- Linux basics
+- Web security basics
+- Cryptography basics
